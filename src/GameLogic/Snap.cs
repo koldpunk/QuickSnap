@@ -86,6 +86,7 @@ namespace CardGames.GameLogic
 		/// <summary>
 		/// Start the Snap game playing!
 		/// </summary>
+
 		public void Start()
 		{
 			if ( ! IsStarted )			// only start if not already started!
